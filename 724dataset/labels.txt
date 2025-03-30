@@ -1,0 +1,89 @@
+file name, label, culture
+image1.png, No, Persian
+
+image2.png, Disbelief, Persian
+
+image3.png, Disbelief, Persian
+
+image4.png, After you, Persian
+
+image5.png, Expressing Sincerity, Persian
+
+image6.png, What?, Persian
+
+image7.png, God Forbid, Persian
+
+image8.png, Sure, Persian
+
+image9.png, I'm fed up, Persian
+
+image10.png, Oh No!, Persian
+
+image11.png, What?, Italian
+
+image12.png, Why do I care?, Italian
+
+image13.png, There is nothing left, Italian
+
+image14.png, Drink Wine, Italian
+
+image15.png, Drink Espresso, Italian
+
+image16.png, Delicious, Italian
+
+image17.png, I'll kill you, Italian
+
+image18.png, get to the point, Italian
+
+image19.png, You are dumb, Italian
+
+image20.png, You are crazy, Italian
+
+image21.png, You are cool, Italian
+
+image22.png, You are in trouble, Italian
+
+image23.png, Blah Blah Blah, Italian
+
+image24.png, Let's Get out of here, Italian
+
+image25.png, Are you Kidding Me?, Italian
+
+image26.png, Are they together?, Italian
+
+image27.png, Perfect, Italian
+
+image28.png, It's easy!, French
+
+image29.png, Drunk, French
+
+image30.png, I'm Fed Up, French
+
+image31.png, I don't believe you, French
+
+image32.png, I'm Frustrated, French
+
+image33.png, Nothing at all, French
+
+image34.png, Your secret is safe with me, French
+
+image35.png, I knew it, French
+
+image36.png, Two, French
+
+image37.png, I told you so, French
+
+image38.png, To be scared, French
+
+image39.png, Shut up, French
+
+image40.png, He/She is crazy, French
+
+image41.png, I'm Excited, French
+
+image42.png, First, French
+
+image43.png, I don't want to see that, French
+image44.png, Let's go,French
+image45.png,Go away, you are bad luck,Italian
+image46.png,Are you Crazy?, French
