@@ -85,5 +85,5 @@ image42.png, First, French
 
 image43.png, I don't want to see that, French
 image44.png, Let's go,French
-image45.png,Go away, you are bad luck,Italian
+image45.png,Go away/ you are bad luck,Italian
 image46.png,Are you Crazy?, French
