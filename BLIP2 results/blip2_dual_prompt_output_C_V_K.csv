@@ -1,0 +1,49 @@
+filename,label,culture,blip2_meaning,blip2_gesture
+c-gesture1.png, Pointing At Someone, Canadian,it means 'i'm pointing at you',pointing
+c-gesture2.png, A Little, Canadian,it means 'no',pointing to the camera
+c-gesture3.png, Money/Pay, Canadian,it's a sign of 'no',a thumbs up
+c-gesture4.jpg, Fingers Crossed, Canadian,it means 'no',a thumbs up
+c-gesture5.png, Blah Blah Blah, Canadian,'i'm not a sex person',a hand gesture
+c-gesture6.png, Loser, Canadian,'save the date',the 's' sign
+c-gesture7.png, Woah, Canadian,it means 'we're ready to play hockey',a hand gesture
+c-gesture8.png, Okay, Canadian,it means 'ok',ok sign
+c-gesture9.png, Embarrassed, Canadian,it means 'save yourself',a hand covering her eyes
+c-gesture10.png, Phew, Canadian,it's a sign of a woman's rage,a hand gesture
+c-gesture11.jpg, Middle Finger, Canadian,it means 'no',the finger up
+c-gesture12.png, Im Watching You, Canadian,it means 'save yourself',a handshake
+c-gesture13.png, Stop/Cut It Out, Canadian,it means 'save yourself',a hand gesture
+c-gesture14.png, Call Me, Canadian,it means 'sorry',a hand gesture
+c-gesture15.png, Hang Loose, Canadian,'hello',the 'hello' sign
+c-gesture16.png, Shh, Canadian,'hush',a finger to the lips
+k-gesture1.png, Pointing At Someone, Korean,it means 'i'm sorry',pointing to her right
+k-gesture2.png, Money, Korean,it means 'love',a 'yes' sign
+k-gesture3.png, Come Here, Korean,it means 'i'm sorry',a hand gesture
+k-gesture4.png, No, Korean,it means 'hello',a hand gesture
+k-gesture5.png, Ready To Receive/Hold/Grab, Korean,it means 'love',a hand gesture
+k-gesture6.png, Fuck You (rude), Korean,it means 'fuck you',fist
+k-gesture7.png, Call Me, Korean,it means 'i'm happy',a thumbs up
+k-gesture8.png, I Promise, Korean,it means 'good luck',the kim jong kook sign
+k-gesture9.png, Thank You, Korean,it means 'prayer',praying
+k-gesture10.png, Love, Korean,it means 'good luck',a thumbs up
+k-gesture11.png, Fuck You Variation2, Korean,it means 'save me',a hand gesture
+k-gesture12.png, Lets Go For A Drink, Korean,                        ,a hand gesture
+k-gesture13.png, Remember, Korean,it means 'i'm happy',a hand gesture
+k-gesture14.png, I Do Not Understand, Korean,it means 'i'm not a good person',open palms
+k-gesture15.png, Okay, Korean,ok,ok
+k-gesture16.png, V/Photo Pose, Korean,it means 'love',a hand gesture
+v-gesture1.png, I Forgot, Vietnamese,it means 'good luck',a gesture of a hand
+v-gesture2.png, Can’t Hear You, Vietnamese,it means 'save yourself',a gesture of 'no'
+v-gesture3.png, Thumbs Up, Vietnamese,it means 'good luck',thumbs up
+v-gesture4.png, A Little, Vietnamese,it means 'smiling',a gesture of 'shaking hands'
+v-gesture5.png, No, Vietnamese,it means 'save yourself',a gesture of 'no'
+v-gesture6.png, Okay, Vietnamese,ok,ok
+v-gesture7.png, Behind You, Vietnamese,it means 'save yourself',a hand gesture
+v-gesture8.png, Come Here, Vietnamese,it means 'good luck',a thumbs up gesture
+v-gesture9.png, Go, Vietnamese,it means 'save yourself',a hand gesture
+v-gesture10.png, Over There (Rude Towards People), Vietnamese,it means 'you are not a good person',pointing at the door
+v-gesture11.png, Oh My God, Vietnamese,it means 'save yourself',a hand covering the mouth
+v-gesture12.png, Fingers Crossed/Women’s Genitals/Fuck You (Rude), Vietnamese,it means 'no',a finger pointing to the sky
+v-gesture13.png, Come Here (Rude), Vietnamese,Error: [Errno 2] No such file or directory: 'Cullen/v-gesture13.png',Error: [Errno 2] No such file or directory: 'Cullen/v-gesture13.png'
+v-gesture14.png, I Swear, Vietnamese,Error: [Errno 2] No such file or directory: 'Cullen/v-gesture14.png',Error: [Errno 2] No such file or directory: 'Cullen/v-gesture14.png'
+v-gesture15.png, I Do Not Want To Play With You Anymore, Vietnamese,Error: [Errno 2] No such file or directory: 'Cullen/v-gesture15.png',Error: [Errno 2] No such file or directory: 'Cullen/v-gesture15.png'
+v-gesture16.png, Hello, Vietnamese,Error: [Errno 2] No such file or directory: 'Cullen/v-gesture16.png',Error: [Errno 2] No such file or directory: 'Cullen/v-gesture16.png'
