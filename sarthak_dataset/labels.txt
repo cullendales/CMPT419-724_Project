@@ -1,0 +1,81 @@
+file name, label, culture
+
+image1.png, Casual greetings, Indian
+
+image2.png, Exaggerated no, Indian
+
+image3.png, Formal greetings, Indian
+
+image4.png, Helplessness, Indian
+
+image5.png, Interested, Indian
+
+image6.png, Lovely, Indian
+
+image7.png, Need to pee, Indian
+
+image8.png, Nervous, Indian
+
+image9.png, Oh my God, Indian
+
+image10.png, Promise, Indian
+
+image11.png, Sorry, Indian
+
+image12.png, Stop, Indian
+
+image13.png, Threaten to slap, Indian
+
+image14.png, Touchwood, Indian
+
+image15.png, What where how, Indian
+
+image16.png, A great quantity, Mexican
+
+image17.png, A little bit, Mexican
+
+image18.png, A lot of money, Mexican
+
+image19.png, Asking for check, Mexican
+
+image20.png, Fuck you, Mexican
+
+image21.png, Go away, Mexican
+
+image22.png, I swear, Mexican
+
+image23.png, Insult, Mexican
+
+image24.png, Just a moment, Mexican
+
+image25.png, Shameless, Mexican
+
+image26.png, Stingy, Mexican
+
+image27.png, Thank You, Mexican
+
+image28.png, That’s right, Mexican
+
+image29.png, To drink alcohol, Mexican
+
+image30.png, Yes, Mexican
+
+image31.png, Cool, Portuguese
+
+image32.png, Delicious, Portuguese
+
+image33.png, Fed up, Portuguese
+
+image34.png, Fuck off, Portuguese
+
+image35.png, Good luck, Portuguese
+
+image36.png, I have had enough, Portuguese
+
+image37.png, It’s full, Portuguese
+
+image38.png, Jealous, Portuguese
+
+image39.png, Middle Finger, Portuguese
+
+image40.png, Money, Portuguese
