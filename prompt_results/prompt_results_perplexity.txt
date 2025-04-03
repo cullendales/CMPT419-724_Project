@@ -1,0 +1,268 @@
+file name, label, culture, result
+image1.png, No, Persian, The person is making the "anti-jinx" or "God forbid" gesture by biting their index finger, which in Persian culture is used to ward off bad luck or prevent something negative from happening.
+
+image2.png, Disbelief, Persian, The person is not making any specific Persian cultural gesture, but rather displaying a neutral facial expression with a slight smile.
+
+image3.png, Disbelief, Persian, The person is covering her mouth with her hand, which in Persian culture can signify shock, surprise, or the "vay" gesture expressing disbelief or astonishment.
+
+image4.png, After you, Persian, The person is not making any specific Persian cultural gesture, but appears to be smiling and engaged in conversation in what seems to be a video call setting.
+
+image5.png, Expressing Sincerity, Persian, The person is placing her hand over her heart, a gesture that in Persian culture signifies sincerity, respect, gratitude, or appreciation.
+
+image6.png, What?, Persian, The person is making a greeting or waving gesture with an open palm, which in Persian culture can be used as a friendly hello or acknowledgment during conversation.
+
+image7.png, God Forbid, Persian, The person is making the "ta'arof" gesture with hand covering mouth, which in Persian culture can indicate politeness, modesty, or hiding embarrassment during conversation.
+
+image8.png, Sure, Persian, The person is making the "facepalm" or "vay" gesture by covering one eye/side of face with hand, which in Persian culture can express embarrassment, distress, or emotional reaction to something overwhelming.
+
+image9.png, I'm fed up, Persian, The person is making the "haminjuri" or casual dismissal gesture with a flick of the hand, which in Persian culture indicates something is not important or should be disregarded.
+
+image10.png, Oh No!, Persian, The person is making the "ta'arof" gesture with hand on cheek, which in Persian culture can indicate politeness, modesty, or mild embarrassment during conversation.
+
+image11.png, What?, Italian, The person appears to be making the "che vuoi" or "what do you want/what's the matter" gesture with a dismissive hand movement, commonly used in Italian culture to express confusion, disagreement, or questioning.
+
+image12.png, Why do I care?, Italian, The person is making the "ci penso io" or "thinking/contemplating" gesture with hand under the chin, which in Italian culture indicates deep thought or consideration.
+
+image13.png, There is nothing left, Italian, The person is making the "ma che vuoi" or "what do you want" gesture with an outstretched hand, commonly used in Italian culture to express confusion, disagreement, or questioning.
+
+image14.png, Drink Wine, Italian, The person is making the "ma che sei matto" or "are you crazy" gesture with thumb and pinky extended, which in Italian culture expresses disbelief or questioning someone's sanity.
+
+image15.png, Drink Espresso, Italian, The person is making the "ci penso io" or "thinking/contemplating" gesture with hand on chin, which in Italian culture indicates deep thought or consideration.
+
+image16.png, Delicious, Italian, The person is making the "perfetto" or "perfect" gesture with thumb and index finger forming a circle, which in Italian culture expresses appreciation for something delicious or well done.
+
+image17.png, I'll kill you, Italian, The person is making the "ma che stai dicendo" or "what are you talking about" gesture with raised hand and skeptical facial expression, commonly used in Italian culture to express dismissal or disbelief.
+
+image18.png, get to the point, Italian, The person is making the "ma che vuoi" or "what do you want" gesture with fingers pinched together, a quintessential Italian hand gesture expressing confusion, questioning, or mild frustration.
+
+image19.png, You are dumb, Italian, The person is making the "saluto" or hat-tipping gesture, a traditional respectful greeting gesture in Italian culture.
+
+image20.png, You are crazy, Italian, The person is making the "sei pazzo" or "you're crazy" gesture with raised finger to the temple, which in Italian culture indicates someone is foolish or has a crazy idea.
+
+image21.png, You are cool, Italian, The person is making the "ci penso io" or "thinking/contemplating" gesture with hand on cheek, which in Italian culture indicates deep thought or consideration.
+
+image22.png, You are in trouble, Italian, The person is making the "basta" or "enough" gesture with a horizontal hand motion across the mouth, which in Italian culture signifies cutting off conversation or indicating that someone should stop talking.
+
+image23.png, Blah Blah Blah, Italian, The person is making the "ma che vuoi" or "what do you want" gesture with hands raised and palms facing upward, a classic Italian expression of confusion, exasperation, or questioning.
+
+image24.png, Let's Get out of here, Italian, The person is making the "ma che fai" or "what are you doing" gesture with hands rubbing together, which in Italian culture can express impatience, anticipation, or questioning someone's actions.
+
+image25.png, Are you Kidding Me?, Italian, The person is making the "cuore" or heart gesture with her hands, which in Italian culture symbolizes love, affection, or appreciation.
+
+image26.png, Are they together?, Italian, The person is making the "nervoso" or anxious gesture with hands clasped together, which in Italian culture can indicate nervousness, anticipation, or impatience.
+
+image27.png, Perfect, Italian, The person is making the "ma che vuoi" or "what do you want" gesture with hand raised and palm facing upward, a classic Italian expression of questioning or mild exasperation.
+
+image28.png, It's easy!, French, The person is making the "silence" or "discretion" gesture with fingers to lips, which in French culture indicates a request for quiet or keeping a secret.
+
+image29.png, Drunk, French, The person is making the "ça pue" or "it stinks" gesture by pinching her nose, which in French culture indicates something smells bad or is unpleasant.
+
+image30.png, I'm Fed Up, French, The person is making the "mon oeil" or "yeah right" gesture with hand raised above the head, which in French culture expresses skepticism or disbelief.
+
+image31.png, I don't believe you, French, The person is making the "mon oeil" or "my eye" gesture by pointing to the eye, which in French culture expresses skepticism, disbelief, or "I don't believe you."
+
+image32.png, I'm Frustrated, French, The person is making the "j'en ai marre" or "I'm fed up" gesture with hands raised in frustration, which in French culture expresses exasperation or being at the end of one's patience.
+
+image33.png, Nothing at all, French, The person is making the "parfait" or "OK" gesture with thumb and index finger forming a circle, which in French culture signifies approval or that something is perfect.
+
+image34.png, Your secret is safe with me, French, The person is making the "parfait" or "perfect" gesture with thumb and index finger forming a circle, which in French culture signifies approval or that something is excellent.
+
+image35.png, I knew it, French, The person is making the "silence" or "chut" gesture with index finger raised to the lips, which in French culture indicates a request for quiet or secrecy.
+
+image36.png, Two, French, The person is making the "loser" or "L" gesture with thumb and index finger forming an L shape, which in French culture is used to label someone as a loser or to mock them.
+
+image37.png, I told you so, French, The person is making the "je te préviens" or warning gesture with pointed finger, which in French culture indicates a warning or threat.
+
+image38.png, To be scared, French, The person is making the "l'argent" or money gesture with fingers rubbing together, which in French culture indicates discussing financial matters or requesting payment.
+
+image39.png, Shut up, French, The person is making a "silence" or "chut" gesture, which in French culture indicates to stay silent
+
+image40.png, He/She is crazy, French, The person is making the "mon oeil" or "my eye" gesture by pointing to the temple near her eye, which in French culture expresses skepticism or disbelief.
+
+image41.png, I'm Excited, French, The person is making the "applaudissement" or clapping gesture with hands together, which in French culture expresses appreciation, congratulations, or approval.
+
+image42.png, First, French, The person is making the "je m'en fiche" or "I don't care" gesture with fingers flicking under the chin, which in French culture expresses dismissal or indifference.
+
+image43.png, I don't want to see that, French, The person is making the "la barbe" or facepalm gesture with hand covering forehead, which in French culture expresses frustration, embarrassment, or disbelief.
+
+image44.png, Let's go,French, The person is making the "je m'en fiche" or "I don't care" gesture with fingers flicking under the chin, which in French culture expresses dismissal or indifference.
+
+image45.png,Go away/ you are bad luck,Italian, The person is making the "attenzione" or warning gesture with raised index finger, which in Italian culture indicates caution, making a point, or giving a warning.
+
+image46.png,Are you Crazy?, French, The person is making the "fou" or "crazy" gesture by pointing to his temple, which in French culture indicates someone is mentally unstable or has a crazy idea.
+
+c-gesture1.png, Pointing At Someone, Canadian, The person is making the "finger gun" or pointing gesture, which has no specific Canadian cultural significance but is universally recognized as a pointing or indicating gesture.
+
+c-gesture2.png, A Little, Canadian, The person is making a pinching gesture with thumb and index finger, which in Canadian culture can represent the "loonie" or "small amount" gesture referring to Canadian currency or indicating something small.
+
+c-gesture3.png, Money/Pay, Canadian, The person is making the "finger heart" gesture, which is not specifically Canadian but has been adopted in Canadian youth culture as a way to show affection or appreciation.
+
+c-gesture4.jpg, Fingers Crossed, Canadian, The person is making the "money" or "cash" gesture with fingers rubbing together, which in Canadian culture indicates discussing financial matters or requesting payment.
+
+c-gesture5.png, Blah Blah Blah, Canadian, The person is making the "pinching" or "small amount" gesture with fingers held together, which has no specific Canadian cultural significance but is a universal gesture often used when emphasizing a point during conversation.
+
+c-gesture6.png, Loser, Canadian, The person is making the "L" or "loser" gesture on their forehead, which is not specifically Canadian but is recognized in Canadian youth culture as a playful way to call someone a loser.
+
+c-gesture7.png, Woah, Canadian, The person is making the "whoa" or "stop" gesture with hands raised and palms facing outward, which in Canadian hockey culture can indicate disagreement with a call or expressing surprise.
+
+c-gesture8.png, Okay, Canadian, The person is making the "OK" or "perfect" gesture with thumb and index finger forming a circle, which is recognized in Canadian culture but is not uniquely Canadian.
+
+c-gesture9.png, Embarrassed, Canadian, The person is making the "facepalm" gesture, which is not uniquely Canadian but is universally recognized as expressing frustration, embarrassment, or disbelief.
+
+c-gesture10.png, Phew, Canadian, The person is making the "facepalm" gesture with hand on forehead, which is universally recognized rather than specifically Canadian, expressing exasperation, embarrassment, or disbelief.
+
+c-gesture11.jpg, Middle Finger, Canadian, The person is making the middle finger gesture, which is universally recognized as an offensive or insulting gesture, not specific to Canadian culture.
+
+c-gesture12.png, Im Watching You, Canadian, The person is adjusting her glasses, which is not a gesture with any specific Canadian cultural significance.
+
+c-gesture13.png, Stop/Cut It Out, Canadian, The person is making the "thank you" or "merci" gesture with hand to chin, which in Canadian culture (particularly in Quebec) can be used to express gratitude or appreciation.
+
+c-gesture14.png, Call Me, Canadian, The person is making the "call me" gesture with hand shaped like a phone near her ear, which is universally recognized rather than specifically Canadian.
+
+c-gesture15.png, Hang Loose, Canadian, The person is making the "hang loose" or "shaka" gesture with thumb and pinky extended, which is not specifically Canadian but is recognized in Canadian surf and snowboard culture.
+
+c-gesture16.png, Shh, Canadian, The person is making the "shh" or "be quiet" gesture with finger to lips, which is universally recognized rather than specifically Canadian.
+
+k-gesture1.png, Pointing At Someone, Korean, The person is making the "finger heart" or "aegyo" gesture, which is a popular expression of affection and cuteness in Korean culture.
+
+k-gesture2.png, Money, Korean, The person is making the "finger heart" gesture by crossing thumb and index finger, which is a popular expression of affection and love in Korean culture.
+
+k-gesture3.png, Come Here, Korean, The person is making the "gun" or "shooting" gesture, which in Korean culture is often used playfully in photos or as part of choreography in K-pop performances.
+
+k-gesture4.png, No, Korean, The person is making the "X" or "no" gesture with crossed arms, which in Korean culture can signify rejection, prohibition, or disagreement.
+
+k-gesture5.png, Ready To Receive/Hold/Grab, Korean, The person is making the "receiving" or "offering" gesture with cupped hands, which in Korean culture can symbolize gratitude, humility, or readiness to receive something.
+
+k-gesture6.png, Fuck You (rude), Korean, The person is making the "fighting" or "hwaiting" gesture with a clenched fist, which in Korean culture is used to show support, encouragement, or determination.
+
+k-gesture7.png, Call Me, Korean, The person is making the "call me" gesture with thumb and pinky extended like a phone, which in Korean culture is commonly used to indicate "let's talk" or to suggest contacting someone.
+
+k-gesture8.png, I Promise, Korean, The person is making the "finger heart" gesture with thumb and index finger, which is a popular expression of love and affection in Korean culture.
+
+k-gesture9.png, Thank You, Korean, The person is making the "fighting" or "hwaiting" gesture with clasped hands, which in Korean culture symbolizes determination, encouragement, or wishing someone good luck.
+
+k-gesture10.png, Love, Korean, The person is making the "finger heart" gesture by crossing thumb and index finger, which is a popular expression of love and affection in Korean culture.
+
+k-gesture11.png, Fuck You Variation2, Korean, The person is making the "fighting" or "hwaiting" gesture with a raised fist, which in Korean culture symbolizes encouragement, determination, or support.
+
+k-gesture12.png, Lets Go For A Drink, Korean, The person is making the "thinking" or "considering" gesture with finger to temple, which is not a specifically Korean cultural gesture but is universally recognized.
+
+k-gesture13.png, Remember, Korean, The person is making the "thinking" or "idea" gesture with finger to temple, which is not uniquely Korean but universally recognized as indicating contemplation or having a thought.
+
+k-gesture14.png, I Do Not Understand, Korean, The person is making the "molla" or "I don't know" gesture with hands outstretched and palms up, which in Korean culture expresses confusion, uncertainty, or questioning.
+
+k-gesture15.png, Okay, Korean, The person is making the "OK" or "perfect" gesture with thumb and index finger forming a circle, which in Korean culture can signify approval or that something is good.
+
+k-gesture16.png, V/Photo Pose, Korean, The person is making the "V" or "peace" gesture with both hands forming triangular frames around the eyes, which is a popular pose in Korean selfie culture.
+
+v-gesture1.png, I Forgot, Vietnamese, The person is not making any specific Vietnamese cultural gesture, but is simply adjusting or styling her hair.
+
+v-gesture2.png, Can’t Hear You, Vietnamese, The person is making the "V" or "peace" gesture with her hand, which is commonly used in photos across many Asian cultures, including Vietnamese.
+
+v-gesture3.png, Thumbs Up, Vietnamese, The person is making the "thumbs up" gesture, which in Vietnamese culture signifies approval, agreement, or that something is good.
+
+v-gesture4.png, A Little, Vietnamese, The person is making the "eye heart" or "finger heart" gesture near her eye, which is popular in Vietnamese youth culture and social media for expressing affection or cuteness.
+
+v-gesture5.png, No, Vietnamese, The person is making the "stop" or "rejection" gesture with palms facing outward, which in Vietnamese culture can indicate setting boundaries or refusing something.
+
+v-gesture6.png, Okay, Vietnamese, The person is making the "OK" or "perfect" gesture with thumb and index finger forming a circle, which is recognized in Vietnamese culture as a sign of approval or agreement.
+
+v-gesture7.png, Behind You, Vietnamese, The person is making the "pinky promise" or "little finger promise" gesture, which in Vietnamese culture represents making a sincere promise or pledge.
+
+v-gesture8.png, Come Here, Vietnamese, The person is making the "thumbs up" gesture, which in Vietnamese culture signifies approval, agreement, or that something is good.
+
+v-gesture9.png, Go, Vietnamese, The person is making a hand-washing or cleansing gesture, which in Vietnamese culture can symbolize purification or removing negative energy.
+
+v-gesture10.png, Over There (Rude Towards People), Vietnamese, The person is making the pointing gesture, which in Vietnamese culture can be considered impolite or rude when directed at people.
+
+v-gesture11.png, Oh My God, Vietnamese, The person is covering her mouth with her hands, which in Vietnamese culture can express surprise, shyness, or modesty.
+
+v-gesture12.png, Fingers Crossed/Women’s Genitals/Fuck You (Rude), Vietnamese, The person is making the "stop" or "warning" gesture with raised palm, which in Vietnamese culture can indicate setting boundaries or asking someone to wait.
+
+v-gesture13.png, Come Here (Rude), Vietnamese, The person is making the "money" or "cash" gesture with fingers rubbing together, which in Vietnamese culture can indicate discussing financial matters or requesting payment.
+
+v-gesture14.png, I Swear, Vietnamese, The person is making the "V" or "peace" sign gesture, which is commonly used in photos across many Asian cultures, including Vietnamese.
+
+v-gesture15.png, I Do Not Want To Play With You Anymore, Vietnamese, The person is making the "V" or "peace" sign gesture, which is commonly used in photos across many Asian cultures, including Vietnamese.
+
+v-gesture16.png, Hello, Vietnamese, The person is making the "V" or "peace" sign gesture, which is commonly used in photos across many Asian cultures, including Vietnamese.
+
+image1.png, Casual greetings, Indian, The person in the image is making the "silence" or "shush" gesture, which in Indian culture is commonly used to request quiet or indicate the need for secrecy.
+
+image2.png, Exaggerated no, Indian, The person is covering their ears with their hands, a gesture commonly used in Indian culture and media to express distress, shock, or the desire to block out unpleasant sounds or news.
+
+image3.png, Formal greetings, Indian, Namaste, a traditional Indian greeting gesture of respect with palms pressed together.
+
+image4.png, Helplessness, Indian, The person is making the "arey baap re" gesture, expressing surprise or exasperation by placing his hand on his forehead.
+
+image5.png, Interested, Indian, The person is making the "thinking" or "contemplative" gesture with hand under the chin, which is universally recognized but also commonly used in Indian expressions and media.
+
+image6.png, Lovely, Indian, The person is making the "OK" or "chin mudra" gesture with both hands, which in Indian culture can symbolize perfection, approval, or meditation depending on the context.
+
+image7.png, Need to pee, Indian, The person is making the "taranga mudra" gesture by raising the index finger, which in Indian culture can signify making a point, seeking attention, or emphasizing an idea.
+
+image8.png, Nervous, Indian, The person is biting her nails or fingers, which in Indian culture can indicate anxiety, nervousness, or worry.
+
+image9.png, Oh my God, Indian, The person is making the "Aiyo" or "Haaye Ram" gesture with hand on cheek, expressing shock, surprise or dismay in Indian cultural context.
+
+image10.png, Promise, Indian, The person is making the "collar adjustment" gesture, which in Indian culture often signifies pride, self-satisfaction, or boasting about an accomplishment.
+
+image11.png, Sorry, Indian, The person is making the "Aiyo" or "Haaye Ram" gesture with hands near the face, expressing frustration, exasperation or dramatic distress common in Indian cultural expressions.
+
+image12.png, Stop, Indian, The person is making the "stop" or "talk to the hand" gesture, which in Indian culture signifies rejection, disapproval, or asking someone to halt.
+
+image13.png, Threaten to slap, Indian, The person is making the "thappad" or slap gesture, commonly used in Indian culture to express playful threat, dramatic emphasis, or comedic effect.
+
+image14.png, Touchwood, Indian, The person is making the "matka" or head-tilting gesture with hands, a classic expression in Indian culture often used to convey coyness, playfulness, or affection.
+
+image15.png, What where how, Indian, The person is making the "arre yaar" gesture, expressing exasperation or frustration with outstretched hands and palms facing upwards.
+
+image16.png, A great quantity, Mexican, The person is making the "alto" or "stop" gesture with an open palm facing forward, commonly used in Mexican culture to indicate stopping, greeting, or taking an oath.
+
+image17.png, A little bit, Mexican, The person is making the "espérame tantito" (wait a moment) gesture with raised index finger, commonly used in Mexican culture to ask for patience or to make a point.
+
+image18.png, A lot of money, Mexican, The person is making the "dinero" or money gesture by rubbing fingers together, which in Mexican culture indicates discussing money or requesting payment.
+
+image19.png, Asking for check, Mexican, The person is making the "chido" or thumbs-up gesture, which in Mexican culture signifies approval, agreement, or that something is good.
+
+image20.png, Fuck you, Mexican, The person is making the "órale" or "hold on" gesture with a raised fist, commonly used in Mexican culture to express defiance, solidarity, or emphasis.
+
+image21.png, Go away, Mexican, The person is making the "te estoy vigilando" (I'm watching you) gesture with a raised finger near the eye, which in Mexican culture indicates warning or keeping an eye on someone.
+
+image22.png, I swear, Mexican, The person is making the "chismosa" or gossip gesture with hand near mouth, commonly used in Mexican culture to indicate sharing secrets or gossip.
+
+image23.png, Insult, Mexican, The person is making the "dinero" or money gesture by forming a circle with thumb and index finger, which in Mexican culture can signify money, perfection, or approval.
+
+image24.png, Just a moment, Mexican, The person is making the "poquito" or "un poquito" gesture with thumb and index finger pinched together, which in Mexican culture indicates a small amount or "just a little bit."
+
+image25.png, Shameless, Mexican, The person is making the "no manches" or "ay no" gesture with hand on cheek, expressing disbelief, surprise, or mild exasperation in Mexican culture.
+
+image26.png, Stingy, Mexican, The person is making the "dame" or "give me" gesture with an outstretched palm, commonly used in Mexican culture to request something or ask for money.
+
+image27.png, Thank You, Mexican, The person is making the "thank you" gesture with palm facing their face, commonly used in Mexican culture to express gratitude, especially when verbal communication is difficult
+
+image28.png, That’s right, Mexican, The person is making the "pensativa" or thoughtful gesture with hand on chin, commonly used in Mexican culture to express contemplation or consideration.
+
+image29.png, To drink alcohol, Mexican, The person is making the "hang loose" or "shaka" gesture, which has been adopted in Mexican youth and surf culture to convey a relaxed, friendly attitude or to say "take it easy."
+
+image30.png, Yes, Mexican, The person is making the "advertencia" or warning gesture with a pointed index finger, commonly used in Mexican culture to emphasize a point, give advice, or issue a warning.
+
+image31.png, Cool, Portuguese, The person is making the "fixe" or thumbs-up gesture, which in Portuguese culture signifies approval, agreement, or that something is cool or great.
+
+image32.png, Delicious, Portuguese, The person is making the "delicioso" or "perfecto" gesture with fingers pinched together, which in Portuguese culture indicates something is delicious or perfect.
+
+image33.png, Fed up, Portuguese, The person is making the "estou a ver" or "looking out" gesture with hand at forehead, commonly used in Portuguese culture to indicate searching for something in the distance or expressing surprise at what one sees.
+
+image34.png, Fuck off, Portuguese, The person is making the "figa" gesture, a traditional Portuguese hand sign believed to ward off evil and bring good luck.
+
+image35.png, Good luck, Portuguese, The person is making the "figas" or "mão de figa" gesture, a traditional Portuguese hand sign used to ward off evil spirits or bad luck.
+
+image36.png, I have had enough, Portuguese, The person is making the "ameaça" or threatening gesture with raised fist, which in Portuguese culture can indicate anger, determination, or a playful warning.
+
+image37.png, It’s full, Portuguese, The person is making the "chega" or "enough" gesture with fingers pinched together, which in Portuguese culture indicates impatience, disagreement, or telling someone to stop talking.
+
+image38.png, Jealous, Portuguese, The person is making the "manguito" or "corte de mangas" gesture, a rude or offensive gesture in Portuguese culture that involves gripping one forearm with the opposite hand.
+
+image39.png, Middle Finger, Portuguese, The person is making the "OK" or "tudo bem" gesture with both hands, which in Portuguese culture signifies that everything is good or alright.
+
+image40.png, Money, Portuguese, The person is making the "dinheiro" or money gesture with fingers rubbing together, which in Portuguese culture indicates discussing financial matters or requesting payment.
