@@ -1,0 +1,54 @@
+file name, label, culture
+c-gesture1.png, Pointing At Someone, Canadian
+c-gesture2.png, A Little, Canadian
+c-gesture3.png, Money/Pay, Canadian
+c-gesture4.jpg, Fingers Crossed, Canadian
+c-gesture5.png, Blah Blah Blah, Canadian
+c-gesture6.png, Loser, Canadian
+c-gesture7.png, Woah, Canadian
+c-gesture8.png, Okay, Canadian
+c-gesture9.png, Embarrassed, Canadian
+c-gesture10.png, Phew, Canadian
+c-gesture11.jpg, Middle Finger, Canadian
+c-gesture12.png, Im Watching You, Canadian
+c-gesture13.png, Stop/Cut It Out, Canadian
+c-gesture14.png, Call Me, Canadian
+c-gesture15.png, Hang Loose, Canadian
+c-gesture16.png, Shh, Canadian
+k-gesture1.png, Pointing At Someone, Korean
+k-gesture2.png, Money, Korean
+k-gesture3.png, Come Here, Korean
+k-gesture4.png, No, Korean
+k-gesture5.png, Ready To Receive/Hold/Grab, Korean
+k-gesture6.png, Fuck You (rude), Korean
+k-gesture7.png, Call Me, Korean
+k-gesture8.png, I Promise, Korean
+k-gesture9.png, Thank You, Korean
+k-gesture10.png, Love, Korean
+k-gesture11.png, Fuck You Variation2, Korean
+k-gesture12.png, Lets Go For A Drink, Korean
+k-gesture13.png, Remember, Korean
+k-gesture14.png, I Do Not Understand, Korean
+k-gesture15.png, Okay, Korean
+k-gesture16.png, V/Photo Pose, Korean
+v-gesture1.png, I Forgot, Vietnamese
+v-gesture2.png, Can’t Hear You, Vietnamese
+v-gesture3.png, Thumbs Up, Vietnamese
+v-gesture4.png, A Little, Vietnamese
+v-gesture5.png, No, Vietnamese
+v-gesture6.png, Okay, Vietnamese
+v-gesture7.png, Behind You, Vietnamese
+v-gesture8.png, Come Here, Vietnamese
+v-gesture9.png, Go, Vietnamese
+v-gesture10.png, Over There (Rude Towards People), Vietnamese
+v-gesture11.png, Oh My God, Vietnamese
+v-gesture12.png, Fingers Crossed/Women’s Genitals/Fuck You (Rude), Vietnamese
+v-gesture13.png, Come Here (Rude), Vietnamese
+v-gesture14.png, I Swear, Vietnamese
+v-gesture15.png, I Do Not Want To Play With You Anymore, Vietnamese
+v-gesture16.png, Hello, Vietnamese
+
+
+
+
+

@@ -1,0 +1,49 @@
+filename,label,culture,blip2_meaning,blip2_gesture,meaning_score,gesture_score
+c-gesture1.png, Pointing At Someone, Canadian,it means 'i'm pointing at you',pointing,1,1
+c-gesture2.png, A Little, Canadian,it means 'no',pointing to the camera,0,0
+c-gesture3.png, Money/Pay, Canadian,it's a sign of 'no',a thumbs up,0,0
+c-gesture4.jpg, Fingers Crossed, Canadian,it means 'no',a thumbs up,0,0
+c-gesture5.png, Blah Blah Blah, Canadian,'i'm not a sex person',a hand gesture,0,0
+c-gesture6.png, Loser, Canadian,'save the date',the 's' sign,0,0
+c-gesture7.png, Woah, Canadian,it means 'we're ready to play hockey',a hand gesture,0,0
+c-gesture8.png, Okay, Canadian,it means 'ok',ok sign,1,1
+c-gesture9.png, Embarrassed, Canadian,it means 'save yourself',a hand covering her eyes,0,1
+c-gesture10.png, Phew, Canadian,it's a sign of a woman's rage,a hand gesture,0,0
+c-gesture11.jpg, Middle Finger, Canadian,it means 'no',the finger up,0,1
+c-gesture12.png, Im Watching You, Canadian,it means 'save yourself',a handshake,0,0
+c-gesture13.png, Stop/Cut It Out, Canadian,it means 'save yourself',a hand gesture,0,0
+c-gesture14.png, Call Me, Canadian,it means 'sorry',a hand gesture,0,0
+c-gesture15.png, Hang Loose, Canadian,'hello',the 'hello' sign,0,0
+c-gesture16.png, Shh, Canadian,'hush',a finger to the lips,1,1
+k-gesture1.png, Pointing At Someone, Korean,it means 'i'm sorry',pointing to her right,0,1
+k-gesture2.png, Money, Korean,it means 'love',a 'yes' sign,0,0
+k-gesture3.png, Come Here, Korean,it means 'i'm sorry',a hand gesture,0,0
+k-gesture4.png, No, Korean,it means 'hello',a hand gesture,0,0
+k-gesture5.png, Ready To Receive/Hold/Grab, Korean,it means 'love',a hand gesture,0,0
+k-gesture6.png, Fuck You (rude), Korean,it means 'fuck you',fist,1,1
+k-gesture7.png, Call Me, Korean,it means 'i'm happy',a thumbs up,0,0
+k-gesture8.png, I Promise, Korean,it means 'good luck',the kim jong kook sign,0,0
+k-gesture9.png, Thank You, Korean,it means 'prayer',praying,0,0
+k-gesture10.png, Love, Korean,it means 'good luck',a thumbs up,0,0
+k-gesture11.png, Fuck You Variation2, Korean,it means 'save me',a hand gesture,
+k-gesture12.png, Lets Go For A Drink, Korean,                        ,a hand gesture,0,0
+k-gesture13.png, Remember, Korean,it means 'i'm happy',a hand gesture,0,0
+k-gesture14.png, I Do Not Understand, Korean,it means 'i'm not a good person',open palms,0,0
+k-gesture15.png, Okay, Korean,ok,ok,1,1
+k-gesture16.png, V/Photo Pose, Korean,it means 'love',a hand gesture,0,0
+v-gesture1.png, I Forgot, Vietnamese,it means 'good luck',a gesture of a hand,0,0
+v-gesture2.png, Can’t Hear You, Vietnamese,it means 'save yourself',a gesture of 'no',0,0
+v-gesture3.png, Thumbs Up, Vietnamese,it means 'good luck',thumbs up,0,1
+v-gesture4.png, A Little, Vietnamese,it means 'smiling',a gesture of 'shaking hands',0,0
+v-gesture5.png, No, Vietnamese,it means 'save yourself',a gesture of 'no',0,1
+v-gesture6.png, Okay, Vietnamese,ok,ok,1,1
+v-gesture7.png, Behind You, Vietnamese,it means 'save yourself',a hand gesture,0,0
+v-gesture8.png, Come Here, Vietnamese,it means 'good luck',a thumbs up gesture,0,0
+v-gesture9.png, Go, Vietnamese,it means 'save yourself',a hand gesture,0,0
+v-gesture10.png, Over There (Rude Towards People), Vietnamese,it means 'you are not a good person',pointing at the door,0,1
+v-gesture11.png, Oh My God, Vietnamese,it means 'save yourself',a hand covering the mouth,0,1
+v-gesture12.png, Fingers Crossed/Women’s Genitals/Fuck You (Rude), Vietnamese,it means 'no',a finger pointing to the sky,0,0
+v-gesture13.png, Come Here (Rude), Vietnamese,it means 'good luck',a hand gesture of a hand gesture,0,0
+v-gesture14.png, I Swear, Vietnamese,ok,ok sign,0,0
+v-gesture15.png, I Do Not Want To Play With You Anymore, Vietnamese,peace,peace sign,0,0
+v-gesture16.png, Hello, Vietnamese,peace,peace sign,0,0                                                      

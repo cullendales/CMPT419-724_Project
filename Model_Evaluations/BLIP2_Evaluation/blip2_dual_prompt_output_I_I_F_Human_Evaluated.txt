@@ -1,0 +1,47 @@
+file name,label,culture,blip2_meaning,blip2_gesture,meaning_score,gesture_score
+image1.png, No, Persian,'i am not a muslim',a hand gesture,0,0
+image2.png, Disbelief, Persian,'i am not a muslim',a hand gesture,0,0
+image3.png, Disbelief, Persian,it means 'shh' or 'shh',a 'shh' gesture,0,0
+image4.png, After you, Persian,'i am happy',a hand gesture,0,0
+image5.png, Expressing Sincerity, Persian,'i am happy',a 'sadaq',0,0
+image6.png, What?, Persian,'i am happy',a 'sadaq' gesture
+image7.png, God Forbid, Persian,                        ,a hand gesture,0,0
+image8.png, Sure, Persian,'sacrifice',a 'shush' gesture,0,0
+image9.png, I'm fed up, Persian,'i am a woman',a 'sh' gesture,0,0
+image10.png, Oh No!, Persian,'i am happy',a hand on the face,0,1
+image11.png, What?, Italian,'i'm sorry',a gesture of 'no',0,0
+image12.png, Why do I care?, Italian,- chin stock videos & royalty-free footage,a chin-up,0,0
+image13.png, There is nothing left, Italian,it means 'no',pointing his finger,0,0
+image14.png, Drink Wine, Italian,it means 'good luck',a 'favorite' gesture,0,0
+image15.png, Drink Espresso, Italian,'i'm sorry',a 'favorite' gesture,0,0
+image16.png, Delicious, Italian,it means 'i'm sorry',a finger to the lips,0,0
+image17.png, I'll kill you, Italian,it means 'no',a fist,0,0
+image18.png, get to the point, Italian,-                        ,- man in hat stock videos & royalty-free footage,0,0
+image19.png, You are dumb, Italian,it means 'no',pointing his finger at the camera,0,0
+image20.png, You are crazy, Italian,'i'm sorry',pointing to the right,0,0
+image21.png, You are cool, Italian,it means 'yes',thumbs up,0,0
+image22.png, You are in trouble, Italian,'i'm sorry',a kiss,0,0
+image23.png, Blah Blah Blah, Italian,- stomping stock videos & royalty-free footage,- a gesture of surprise stock videos & royalty-free footage,0,0
+image24.png, Let's Get out of here, Italian,it means 'good luck',a hand gesture,0,0
+image25.png, Are you Kidding Me?, Italian,it means 'love',heart,0,0
+image26.png, Are they together?, Italian,it means 'to be a good friend',a fist,0,0
+image27.png, Perfect, Italian,it means 'the end',the 'finger',0,0
+image28.png, It's easy!, French,it means 'to kiss',kissing her lips,0,0
+image29.png, Drunk, French,it means 'smoking',kissing her nose,0,0
+image30.png, I'm Fed Up, French,it means 'save yourself',a gesture of a hand,0,0
+image31.png, I don't believe you, French,it means 'to be a good friend',pointing to her face,0,0
+image32.png, I'm Frustrated, French,it means 'to be a good friend',a hand gesture,0,0
+image33.png, Nothing at all, French,it means ok,ok,0,0
+image34.png, Your secret is safe with me, French,it means 'good luck',ok,0,0
+image35.png, I knew it, French,it means 'to kiss',pointing to her finger,0,0
+image36.png, Two, French,it means 'no',the 'f' sign,0,0
+image37.png, I told you so, French,it means 'yes',thumbs up,0,0
+image38.png, To be scared, French,it means 'i'm not going to be able to do it',a gesture of a hand0,0
+image39.png, Shut up, French,it means 'i'm happy',a french kiss,0,0
+image40.png, He/She is crazy, French,it means 'to be a good friend',pointing to her eyebrows,0,1
+image41.png, I'm Excited, French,'goodbye',a clap,0,0
+image42.png, First, French,'no',the french finger,0,0
+image43.png, I don't want to see that, French,it means 'to be frightened',a sneeze,0,0
+image44.png, Let's go,French,it means 'i'm sorry',the 'feu' gesture,0,0
+image45.png,Go away/ you are bad luck,Italian,it means 'i'm a rock star',the 'pivot' gesture,0,0
+image46.png,Are you Crazy?, French,it means 'to be a good friend',a gesture of a 'feu',0,0
